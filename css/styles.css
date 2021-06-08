@@ -88,6 +88,7 @@ a:hover{
 .self{
   margin-top: 60px;
   width: 20%;
+  border-radius: 100%;
 }
 .pg{
   width: 25%;
@@ -142,6 +143,4 @@ a:hover{
   color:#fff8d9;
   font-size: .75rem;
 }
-.self{
-  border-redius:100%;
-}
+
