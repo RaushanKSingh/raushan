@@ -142,3 +142,6 @@ a:hover{
   color:#fff8d9;
   font-size: .75rem;
 }
+.self{
+  border-redius:100%;
+}
